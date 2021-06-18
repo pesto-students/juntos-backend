@@ -26,5 +26,8 @@
     "build": "tsc",
     "start": "nodemon src/index.ts",
     "test": "jest"
+  },
+  "engines": {
+    "node": "15.x"
   }
 }
