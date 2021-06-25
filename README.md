@@ -2,6 +2,10 @@
 
 Place where you can co-watch video.
 
+## Important:
+
+Before proceeding further with this project kindly go through all the documentation provided at [Juntos Main Repository](https://github.com/pesto-students/juntos-ninja-2-beta.git).
+
 ---
 
 ## Requirements
@@ -21,8 +25,6 @@ If the installation was successful, you should be able to run the following comm
     $ npm --version
     6.14.10
 
-
-
 ### Yarn installation
 
 After installing node, this project will need yarn too, so just run the following command.
@@ -31,6 +33,7 @@ After installing node, this project will need yarn too, so just run the followin
 
       $ yarn --version
       1.22.10
+
 ---
 
 ## Install
